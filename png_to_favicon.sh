@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# png_to_favicon is a bash script which converts a 128 x 128 png into a
-# favicon.ico file for use with the web and ie
+# png_to_favicon is a bash script which converts a png, ideally 64 x 64 or
+# greater, into a favicon.ico file for use with your awesome website
 
 # adapted from:
 # https://gist.github.com/nateware/900d2d09f4884ac0c073
